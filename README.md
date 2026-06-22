@@ -1,31 +1,28 @@
-# Hello, I'm Saad 👋
+# Hi 👋, I'm Saad Bhuiyan
 
-🎓 Computer Science Student
+## 🚀 About Me
+- 🎓 CSE Student
+- 🤖 Learning AI & Machine Learning
+- 💻 Interested in Java, Python, Data Structures
+- 🌱 Currently improving problem-solving skills
 
-🤖 Aspiring AI & Machine Learning Engineer
-
-### Technologies
+## 🛠️ Skills
 - Java
 - Python
 - C++
-- Git & GitHub
-- Data Structures & Algorithms
 - OOP
+- Data Structures & Algorithms
+- Git & GitHub
 
-### Currently Learning
-- Machine Learning
-- Deep Learning
-- Data Science
-- Generative AI
+## 📊 GitHub Stats
 
-### Goals for 2026
-- Build AI Projects
-- Master Machine Learning
-- Contribute to Open Source
-- Secure AI/ML Internship
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
-### GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
-### Contact
-📧 your-email@example.com
+## 🔗 Connect With Me
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: Add your LinkedIn profile
+
+## 📌 Current Goal
+Become an AI/ML Engineer 🚀
