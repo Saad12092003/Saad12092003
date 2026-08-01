@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="YOUR_BANNER_URL" width="100%" alt="Saad Bhuiyan Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Saad Bhuiyan</h1>
