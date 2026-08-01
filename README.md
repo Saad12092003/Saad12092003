@@ -51,22 +51,6 @@ Computer Science Student • Java Developer • Problem Solver • Aspiring AI/M
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Saad12092003&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Saad12092003&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad12092003&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
